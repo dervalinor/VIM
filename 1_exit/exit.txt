@@ -1,0 +1,6 @@
+how to exit of vim of neovim (nvim for open)
+
+first we need to put editor in mode normal (press ESC double time)
+:q!
+:q
+ZZ
