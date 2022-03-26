@@ -1,0 +1,2 @@
+Mode Normal write :w for save all the changes of the file
+:wq save and exit
