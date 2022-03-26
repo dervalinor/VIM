@@ -1,0 +1,4 @@
+Add text press key "i", put the cursor before of letter selected
+Exit of mode insert press double time ESC
+Put the cursor after of letter selected cursor use "a"
+insert the end of the string use "A"
