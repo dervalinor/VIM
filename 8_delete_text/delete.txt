@@ -1,0 +1,6 @@
+dw use for delete a word, put the cursor to the start
+of the word
+
+u for undo all the changes
+CTRL + r return our changes
+d + $ delete all the code from start and end line but without the line, put the cursor in start the line

@@ -1,0 +1,5 @@
+gb got to the definition of a function or word
+gf move to the other file link to the first file, put
+the curse over the name of file
+CTRL + o return to the previous file
+CTRL + y go a pass forwards
