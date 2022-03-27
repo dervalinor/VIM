@@ -1,0 +1,14 @@
+Now we will learn to use operator and move (w, e and b) with this.
+
+operator of delete d
+
+we can combine with w, e and b.
+
+we can use numbers for delete various letter or numbers
+d <number><letter_move>
+Example: d3w delete three letter forwards
+
+This we can use for all the commands
+
+<numbers><commands> how much do we want to repeat this command
+example: 10w, 14j
