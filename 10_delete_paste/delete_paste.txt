@@ -1,0 +1,4 @@
+<number>dd delete or cut all a line
+<number>p paste 
+
+<number>x cut a numbers of characters
