@@ -9,6 +9,7 @@ const suma = (ns) => {
   return acumulado;
 } 
 
+//hello hello hello
 const numeros = [1, 2, 3, 4, 5];
 // multiplicar * 2
 const multiplicados = numeros.map(x => x * 2)

@@ -16,9 +16,9 @@ const parejas = numeros.map(x => [x, x])
 
 const mascotas = [
   { nombre: 'Puchini', edad: 12, tipo: 'perro' },
-  { nombre: 'Chanchito feliz', edad: 3, tipo: 'perro' },
+  { nombre: 'Chanchito Bonito', edad: 3, tipo: 'perro' },
+  { nombre: 'Robitin', edad: 12, tipo: 'gato' },
   { nombre: 'Pulga', edad: 10, tipo: 'perro' },
-  { nombre: 'Pelusa', edad: 12, tipo: 'gato' },
 ]
 // edad promedio
 const edades = mascotas.map(x => x.edad)
