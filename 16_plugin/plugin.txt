@@ -1,0 +1,21 @@
+first install a manager of plugin as:
+
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+
+Enter to .vimrc and write the path for install plugin
+
+call plug#begin('~/vim/plugged')
+
+after install plugin: 
+
+Plug 'nameplugin'
+
+call plug#end()
+
+Now mode normal put:
+:PlugInstall
+
+choose the theme of vim 
+colorscheme nameplugin
+let variable_color=value
