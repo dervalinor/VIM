@@ -1,0 +1,4 @@
+o open new line down the cursor
+O open new line up of the cursor
+R mode of replace now we can replace letter for letter
+v mode visual use for copy or cut, this mode let us select text
