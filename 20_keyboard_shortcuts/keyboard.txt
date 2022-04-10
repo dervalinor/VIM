@@ -1,0 +1,7 @@
+alt + f2 --- search program for name
+alt + f4 --- closes the focused windows
+tab --- move between options of programs
+ctrl + d --- exit tab of terminal
+ctrl + l --- clear terminal
+ctrl + e --- select all the text
+ctrl + tab --- move between tab browser
