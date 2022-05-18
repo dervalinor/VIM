@@ -1,0 +1,9 @@
+Install a plug for move more fast
+Plug easymotion/vim-easymotion
+
+Now use a letter for activate easymotion in this case is SPACE
+let mapleader=" " 
+after of SPACE other letter for activate easymotion in mode normal
+nmap <leader>s <Plug>(easymotion-s2)
+
+Activate the command choose letter and write for move

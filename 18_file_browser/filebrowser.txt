@@ -1,0 +1,15 @@
+In mode normal ,t let to browser of files
+,t + m see the options
+s open other file ahead of open file current
+
+Install 
+Plug 'christoomey/vim-tmux-navigator'
+
+CTRL + <key_move> now we can move between files (key_move = h, j, k, l)
+
+Now we could copy text of a file to other file
+
+v
+y
+CTRL + <key_move>
+p

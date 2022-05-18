@@ -1,0 +1,1 @@
+Use "x" for remove text letter for letter in mode normal

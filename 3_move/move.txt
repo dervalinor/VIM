@@ -1,0 +1,14 @@
+The keys: 
+
+
+h --- back 
+j --- down
+k --- up
+l --- forward
+
+
+Keys for move more fast:
+
+w -- move start of the next word to forward
+b -- move start of the prevoius word to back
+e -- move end of the next word

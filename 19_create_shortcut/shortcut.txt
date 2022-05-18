@@ -1,0 +1,1 @@
+nmap <leader>shortcut :command<CR>

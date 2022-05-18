@@ -1,0 +1,40 @@
+go to:
+vim .vimrc
+
+edit this file:
+
+show the line number
+set number
+
+show the interaction of mause in the editor
+set mouse=a
+
+save the clipboard in the system
+set clipboard=unname
+
+show the commands
+set showcmd
+
+show the position of cursor
+set ruler
+
+encoding of files
+set encoding=utf-8
+
+show the parenthesis open and close
+set showmatch
+
+move two space right and left
+set sw=2
+
+show the position relative
+set relativenumber
+
+show color in the syntax
+syntax enable
+
+show the bar the last
+set laststatus=2
+
+if we want not see the mode of vim
+set noshowmode

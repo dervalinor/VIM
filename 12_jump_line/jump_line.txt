@@ -1,0 +1,10 @@
+CTRL + g see the number of line
+gg go to start of the file
+G got to end of the file
+
+Search word
+/<word>  + ENTER  search the word after of the cursor
+?<word>  + ENTER  search the word before of the position of cursor
+
+n  move next the word found
+N  move back the word found

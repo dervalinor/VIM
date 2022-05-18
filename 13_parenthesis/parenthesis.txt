@@ -1,0 +1,13 @@
+% jump between parenthesis
+
+0 go to start of the line
+$ go to end of the line
+
+Mode Normal for substitute use:
+
+this only function for the line where is the cursor
+:s/<old_word>/<new_word> replace the first word found
+:s/<old_word>/new_word>/g replace all the word found
+
+Change word or string but ask me which I wish change
+:%s/<old_word>/<new_word>/gc
