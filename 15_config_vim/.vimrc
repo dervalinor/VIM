@@ -93,6 +93,7 @@ endif
 call plug#begin('~/.vim/plugged')
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
+Plug 'https://github.com/ycm-core/YouCompleteMe.git'
 Plug 'pangloss/vim-javascript'    " JavaScript support
 Plug 'leafgarland/typescript-vim' " TypeScript syntax
 Plug 'hashivim/vim-terraform' " Terraform syntax and commands
