@@ -17,6 +17,12 @@ set showcmd
 "dividir mi terminal en varias partes
 set splitbelow
 
+" Habilitar autoguardado
+set autowrite
+
+" Establecer el tiempo de espera para el autoguardado (en milisegundos)
+set updatetime=1000
+
 
 set encoding=utf-8
 let using_neovim = has('nvim')
@@ -76,7 +82,17 @@ Plug 'vim-scripts/AutoComplPop'
 "Ctrl+w >: Aumenta el ancho de la ventana actual.
 "Ctrl+w -: Reduce la altura de la ventana actual.
 "Ctrl+w +: Aumenta la altura de la ventana actual.
-"Plug 'simeji/vim-resize'
+"De la terminal al código:
+
+" Presiona Ctrl + w seguido de j para moverte desde la terminal hacia abajo a la ventana del código.
+" Presiona Ctrl + w seguido de k para moverte desde la terminal hacia arriba a la ventana del código.
+" Estos comandos cambian entre ventanas divididas en horizontal, es decir, si la terminal está arriba y el código abajo, puedes usar estos comandos para moverte entre ellas.
+" Del código a la terminal:
+
+" Desde la ventana del código, presiona Ctrl + w seguido de j para moverte hacia abajo a la ventana de la terminal.
+" Desde la ventana del código, presiona Ctrl + w seguido de k para moverte hacia arriba a la ventana de la terminal.
+
+Plug 'simeji/vim-resize'
 
 
 " Override configs by directory
