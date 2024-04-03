@@ -92,9 +92,6 @@ Plug 'vim-scripts/AutoComplPop'
 " Desde la ventana del código, presiona Ctrl + w seguido de j para moverte hacia abajo a la ventana de la terminal.
 " Desde la ventana del código, presiona Ctrl + w seguido de k para moverte hacia arriba a la ventana de la terminal.
 
-Plug 'simeji/vim-resize'
-
-
 " Override configs by directory
 Plug 'arielrossanigo/dir-configs-override.vim'
 " Code commenter
