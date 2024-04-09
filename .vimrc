@@ -139,6 +139,9 @@ nmap <leader>wq :wq<CR>
 "Open terminal - :term
 nmap <leader>t :term<CR>
 
+" cambiar la letra ESC por ,, para modo normal
+inoremap ,, <Esc>
+
 if using_neovim && vim_plug_just_installed
     Plug 'Shougo/deoplete.nvim', {'do': ':autocmd VimEnter * UpdateRemotePlugins'}
 else
